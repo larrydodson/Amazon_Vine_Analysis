@@ -1,9 +1,6 @@
 # Amazon_Vine_Analysis
 UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
-# Project Name 
-subtitle 
-
 ---
 
 ## Contents 
@@ -17,22 +14,20 @@ subtitle
 ---  
 
 ## Overview 
-  
   In support of . 
 
    ### Purpose
-   To prepare a new . 
+   To prepare a  . 
   
    The deliverables are: 
-   - Deliverable 1: a
-   - Deliverable 2: b
-   - Deliverable 3: c.
-  
+   - Deliverable 1: Perform ETL on Amazon Product Reviews
+   - Deliverable 2: Determine Bias of Vine Reviews
+   - Deliverable 3: A Written Report on the Analysis (README.md).
    
   
    ### Resources
-  * Data/content sources: t 
-  * Software: Windows10, Python 3.8.3, Jupyter Notebook, VS Code 1.49.1, HTML, Splinter, BeautifulSoup 2.0.1, Flask 1.1.2, flask_pymongo 2.3.0, HTML 5, JavaScript, Bootstrap 3.3.7, MongoDB 4.4.1
+  * Data/content sources: amazon_reviews_us_Grocery_v1_00.tsv.gz dataset 
+  * Software: Windows10, Python 3.8.3, Google Colab Notebook, Apache Spark 3.0.1, PySpark, VS Code 1.49.1, PostgreSQL, pgAdmin 4.24
   
 <br>
 
@@ -42,11 +37,11 @@ subtitle
 
    Below . 
 
-### Deliverable 1: a
+### Deliverable 1: Perform ETL on Amazon Product Reviews
 
-### Deliverable 2: b 
+### Deliverable 2: Determine Bias of Vine Review 
 
-### Deliverable 3: n 
+### Deliverable 3: A Written Report on the Analysis (README.md)
 
 
 
