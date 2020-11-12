@@ -28,6 +28,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
    ### Resources
   * Data/content sources: amazon_reviews_us_Grocery_v1_00.tsv.gz dataset 
   * Software: Windows10, Python 3.8.3, Google Colab Notebook, Apache Spark 3.0.1, PySpark, VS Code 1.49.1, PostgreSQL, pgAdmin 4.24
+  * Services: AWS S3 data storage, AWS RDS database hosting 
   
 <br>
 
