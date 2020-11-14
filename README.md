@@ -27,7 +27,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
   
    ### Resources
   * Data/content sources: amazon_reviews_us_Grocery_v1_00.tsv.gz dataset https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz
-  * Software: Windows10, Python 3.8.3, Google Colab Notebook, Apache Spark 3.0.1, PySpark, VS Code 1.49.1, PostgreSQL, pgAdmin 4.24
+  * Software: Windows10, Python 3.8.3, Google Colab Notebook, Apache Spark 3.0.1, PySpark, PostgreSQL, pgAdmin 4.24
   * Services: AWS S3 data storage, AWS RDS database hosting. 
   
 
@@ -38,7 +38,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
    * DataFrames were transformed from the Amazon Vine Review dataset, and loaded into PostgreSQL. The dataset chosen for this analysis was "us_Grocery".
-   * Please see files: Amazon_Reviews_ETL.ipynb  and  Module16_Challenge_Amazon_Reviews.sql 
+   * Please see files: `Amazon_Reviews_ETL.ipynb`  and  `Module16_Challenge_Amazon_Reviews.sql` 
    
    
    **All four PostgreSQL tables, as shown using pgAdmin:**  <br>
@@ -49,10 +49,17 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 .
 
 ### Deliverable 2: Determine Bias of Vine Review 
-  * Using PySpark and Colab notebook.  .  Please see: Vine_Review_Analysis.ipynb  
+  * Using PySpark and Colab notebook.  .  Please see: `Vine_Review_Analysis.ipynb`  
   * Filters on the data: 
     1) Reviews that were ≥ 20 total_votes recorded, and 
     2) Reviews where the ratio of helpful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
+
+      **Information from the dataset original file used for extraction, and the above two filters used on us_Grocery `amazon_reviews_us_Grocery_v1_00.tsv.gz`:** 
+   | **Item** | **Details** | 
+   | :---: | :---: | 
+   | Quantity of Reviews | 2,402,458 | 
+   | Quantity of Reviews post filter for ≥20 total_votes | 31,518 |  
+   | Quantity of Reviews post filter for ≥50% helpful_votes | 28,348 | 
 
 
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
@@ -82,7 +89,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
  
    | **abc** |
    | :---: |
-   | ![]() |
+   | ![]() | 
 
 
 
