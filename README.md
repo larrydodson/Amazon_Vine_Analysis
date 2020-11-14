@@ -14,7 +14,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 ---  
 
 ## Overview 
-  In continued work with SellBy, this project focusses on the analysis of Amazon product reviews. The reviews are a component of the Amazon Vine program, a service that allows suppliers of products to recieve reviews written by members of the paid Vine program. Companies can elect to pay a fee to Amazon, and to provide example products to Vine members, who then are required to publish a written review within the Amazon system. 
+  In continued work with SellBy, this project focusses on the analysis of Amazon product reviews. The reviews are a component of the Amazon Vine program, a service that allows suppliers of products to receive reviews written by members of the paid Vine program. Companies can elect to pay a fee to Amazon, and to provide example products to Vine members, who then are required to publish a written review within the Amazon system. 
 
    ### Purpose
    To prepare a statistical analysis on a chosen Vine review category, downloaded from the Amazon cloud. Using PySpark and working within Colab notebook, and using AWS S3 storage and AWS RDS with a hosted PostgreSQL database, an ETL and transform process was performed on selected data. The analysis was to determine if any favorable bias exists with reviews in the data between Vine-paid reviews versus reviews that were not in the Vine program. 
