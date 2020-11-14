@@ -103,11 +103,11 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 ### Questions and Replies 
   *1. State if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement.* 
   
-   **>**  No, there is no meaningful bias for reviews in the Vine program. After the two filters are applied, as described above, It is apparent that the large majority of all actual reviews are non-Vine Program reviews at 28,287 non-Vine Reviews versus only 61 Vine Program reviews. And, also where the Percentage of 5-Star reviews is at <1% of all Reviews and also for all 5-Star reviews. Therefore, any impact from Vine reviews is negligible. 
+   **>**  No, there is no meaningful bias for reviews in the Vine program, as analysis is applied here on the us_Grocery Vine Category. After the two filters are applied, as described above, it is apparent that the large majority of all actual reviews are non-Vine Program reviews at 28,287 non-Vine Reviews versus only 61 Vine Program reviews. And, also where the Percentage of 5-Star reviews is at <1% of all Reviews and also for all 5-Star reviews. Therefore, any impact from Vine reviews is negligible. 
   
   *2. Provide one additional analysis that you could do with the dataset to support your statement.*
 
-   **>**  
+   **>**  Additional analysis could be performed using NLP (Natural Language Processing), on the original dataset, and specifically on the data columns for "review_headline" and "review_body". With an analysis of these text columns it could be determined if there is a positive or negative bias in peoples' stated opinions, and would propose to determine if this may be related to the statistical approach of this project. 
 
 
 
