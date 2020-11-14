@@ -55,6 +55,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
     2) Reviews where the ratio of helpful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
 
       **Information from the dataset original file used for extraction, and the above two filters used on us_Grocery `amazon_reviews_us_Grocery_v1_00.tsv.gz`:** 
+      
    | **Item** | **Details** | 
    | :---: | :---: | 
    | Quantity of Reviews | 2,402,458 | 
