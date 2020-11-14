@@ -91,7 +91,8 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
  
 .
 
-### Deliverable 3: A Written Report on the Analysis (*this README.md*)
+### Deliverable 3: A Written Report on the Analysis 
+ (*this README.md*)
   
 <br>
 
@@ -100,12 +101,13 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 # Summary
 
 ### Questions and Replies 
-  *1. state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement.* 
+  *1. State if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement.* 
   
+   **>**  No, there is no meaningful bias for reviews in the Vine program. After the two filters are applied, as described above, It is apparent that the large majority of all actual reviews are non-Vine Program reviews at 28,287 non-Vine Reviews versus only 61 Vine Program reviews. And, also where the Percentage of 5-Star reviews is at <1% of all Reviews and also for all 5-Star reviews. Therefore, any impact from Vine reviews is negligible. 
   
-  *2. provide one additional analysis that you could do with the dataset to support your statement.*
+  *2. Provide one additional analysis that you could do with the dataset to support your statement.*
 
-
+   **>**  
 
 
 
