@@ -56,11 +56,11 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
       **Information from the dataset original file used for extraction, and the above two filters used on us_Grocery `amazon_reviews_us_Grocery_v1_00.tsv.gz`:** 
       
-   | **Item** | **Details** | 
-   | :---: | :---: | 
-   | Quantity of Reviews | 2,402,458 | 
-   | Quantity of Reviews post filter for ≥20 total_votes | 31,518 |  
-   | Quantity of Reviews post filter for ≥50% helpful_votes | 28,348 | 
+     | **Item** | **Quantity (.count)** | 
+     | :--- | :---: | 
+     | Total number of original Reviews | 2,402,458 | 
+     | Number of Reviews post filter for ≥20 total_votes | 31,518 |  
+     | Number of Reviews post filter for ≥50% helpful_votes | 28,348 | 
 
 
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
