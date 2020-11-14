@@ -40,13 +40,15 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
  
+   **All four DataFrames loaded into respective tables in pgAdmin**.<br>
+   | **customers_table** | **products_table** | **review_id_table** | **vine_table** |
+   | :---: | :---: | :---: | :---: | 
+   | ![customers_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/customers_table.png) | ![products_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/products_table.png) | ![review_id_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/review_id_table.png) | ![vine_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/vine_table.png) | 
+ 
+ 
+.
 
 ### Deliverable 2: Determine Bias of Vine Review 
- 
-
-### Deliverable 3: A Written Report on the Analysis (README.md)
- 
-
 
  
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
@@ -65,6 +67,12 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
  
   3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   
+ 
+ 
+ 
+.
+
+### Deliverable 3: A Written Report on the Analysis (*this README.md*)
   
   
  
