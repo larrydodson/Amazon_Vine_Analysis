@@ -28,32 +28,35 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
    ### Resources
   * Data/content sources: amazon_reviews_us_Grocery_v1_00.tsv.gz dataset https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz
   * Software: Windows10, Python 3.8.3, Google Colab Notebook, Apache Spark 3.0.1, PySpark, VS Code 1.49.1, PostgreSQL, pgAdmin 4.24
-  * Services: AWS S3 data storage, AWS RDS database hosting 
+  * Services: AWS S3 data storage, AWS RDS database hosting. 
   
-<br>
 
 --- 
 
 ## Results
 
-   Below . 
 
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
- 
-   **All four DataFrames loaded into respective tables in pgAdmin**.<br>
+   DataFrames were transformed from the Amazon Vine Review dataset, and loaded into PostgreSQL. The dataset chosen for this analysis is "us_Grocery". Please see: Amazon_Reviews_ETL.ipynb 
+   
+   
+   **All four PostgreSQL tables, as shown using pgAdmin:**  <br>
    | **customers_table** | **products_table** | **review_id_table** | **vine_table** |
    | :---: | :---: | :---: | :---: | 
    | ![customers_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/customers_table.png) | ![products_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/products_table.png) | ![review_id_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/review_id_table.png) | ![vine_table.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/vine_table.png) | 
  
- 
 .
 
 ### Deliverable 2: Determine Bias of Vine Review 
+  * Using PySpark and Colab notebook.  Please see: Vine_Review_Analysis.ipynb
+  * Filters on the data: 
+    1) Reviews that were ≥ 20 total_votes recorded, and 
+    2) Reviews where the ratio of helful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
 
- 
+
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
   1. How many Vine reviews and non-Vine reviews were there?
-  Filters on the data: 1) reviews that had greater than 20 total votes, and 2) reviews where the ratio of helful votes to total votes was greater than 50 percent.
+  
   
   Vine reviews = 
   non-Vine review = 
