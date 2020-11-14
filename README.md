@@ -61,6 +61,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
      | Total number of original Reviews | 2,402,458 | 
      | Number of Reviews post filter for ≥20 total_votes | 31,518 |  
      | Number of Reviews post filter for ≥50% helpful_votes | 28,348 | 
+     | Total Number of 5-Star Reviews | 15,709 |
 
 
 
@@ -70,22 +71,22 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
   
    | **Quantity of Vine Reviews** | **Quantity of non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>334,443 | ![]() <br>787,555 |  
+   | ![]() <br>61 | ![]() <br>28,287 |  
  
  
    *2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
  
    | **Quantity of 5-Star Vine Reviews** | **Quantity of 5-Star non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>cde  | ![]() <br>fgh  | 
+   | ![]() <br>20  | ![]() <br>15,689  | 
  
  
    *3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?*
   
    | **Percentage of 5-Star Vine Reviews** | **Percentage of 5-Star non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>abc  | ![]() <br>abc  | 
-   | ![]() <br>abc  | ![]() <br>abc  | 
+   | ![]() <br>0.00071 or 0.071%<br>for All Reviews | ![]() <br>0.553 or 55.3%<br>for All Reviews | 
+   | ![]() <br>0.0013 or 0.13%<br>for All 5-Star Reviews | ![]() <br>0.999 or 99.9%<br>for All 5-Star Reviews | 
  
  
 .
