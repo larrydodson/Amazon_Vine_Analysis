@@ -65,26 +65,27 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
 
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
-  *1. How many Vine reviews and non-Vine reviews were there?*
+
+   *1. How many Vine reviews and non-Vine reviews were there?*
   
-     | **Quantity of Vine Reviews** | **Quantity of non-Vine Reviews** |
-     | :---: | :---: |
-     | ![]() <br>334,443 | ![]() <br>787,555 |  
+   | **Quantity of Vine Reviews** | **Quantity of non-Vine Reviews** |
+   | :---: | :---: |
+   | ![]() <br>334,443 | ![]() <br>787,555 |  
  
  
-  *2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
+   *2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
  
-     | **Quantity of 5-Star Vine Reviews** | **Quantity of 5-Star non-Vine Reviews** |
-     | :---: | :---: |
-     | ![]() <br>cde  | ![]() <br>fgh  | 
+   | **Quantity of 5-Star Vine Reviews** | **Quantity of 5-Star non-Vine Reviews** |
+   | :---: | :---: |
+   | ![]() <br>cde  | ![]() <br>fgh  | 
  
  
-  *3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?*
+   *3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?*
   
-     | **Percentage of 5-Star Vine Reviews** | **Percentage of 5-Star non-Vine Reviews** |
-     | :---: | :---: |
-     | ![]() <br>abc  | ![]() <br>abc  | 
-     | ![]() <br>abc  | ![]() <br>abc  | 
+   | **Percentage of 5-Star Vine Reviews** | **Percentage of 5-Star non-Vine Reviews** |
+   | :---: | :---: |
+   | ![]() <br>abc  | ![]() <br>abc  | 
+   | ![]() <br>abc  | ![]() <br>abc  | 
  
  
 .
