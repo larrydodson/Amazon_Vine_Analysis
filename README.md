@@ -71,22 +71,22 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
   
    | **Quantity of Vine Reviews** | **Quantity of non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>61 | ![]() <br>28,287 |  
+   | ![vine_Y_reviews.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/vine_Y_reviews.png) <br>61 | ![vine_N_reviews.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/vine_N_reviews.png) <br>28,287 |  
  
  
    *2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?*
  
    | **Quantity of 5-Star Vine Reviews** | **Quantity of 5-Star non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>20  | ![]() <br>15,689  | 
+   | ![Y5star_reviews.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/Y5star_reviews.png) <br>20  | ![N5star_reviews.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/N5star_reviews.png) <br>15,689  | 
  
  
    *3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?*
   
    | **Percentage of 5-Star Vine Reviews** | **Percentage of 5-Star non-Vine Reviews** |
    | :---: | :---: |
-   | ![]() <br>0.00071 or 0.071%<br>for All Reviews | ![]() <br>0.553 or 55.3%<br>for All Reviews | 
-   | ![]() <br>0.0013 or 0.13%<br>for All 5-Star Reviews | ![]() <br>0.999 or 99.9%<br>for All 5-Star Reviews | 
+   | ![Y5star_percentAll.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/Y5star_percentAll.png) <br>0.00071 or 0.071%<br>for All Reviews | ![N5star_percentAll.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/N5star_percentAll.png) <br>0.553 or 55.3%<br>for All Reviews | 
+   | ![Y5star_percent_only.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/Y5star_percent_only.png) <br>0.0013 or 0.13%<br>of All 5-Star Reviews | ![N5star_percent_only.png](https://github.com/larrydodson/Amazon_Vine_Analysis/blob/main/N5star_percent_only.png) <br>0.999 or 99.9%<br>of All 5-Star Reviews | 
  
  
 .
