@@ -63,23 +63,31 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
      | Number of Reviews post filter for ≥50% helpful_votes | 28,348 | 
 
 
+
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
   1. How many Vine reviews and non-Vine reviews were there?
   
+     | **Quantity of Vine Reviews** | **Quantity of non-Vine Reviews** |
+     | :---: | :---: |
+     | ![]() <br>334,443 | ![]() <br>787,555 | 
   
   Vine reviews = 
-  non-Vine review = 
+  non-Vine reviews = 
  
  
   2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
  
-  Vine reviews quantity = 
-  non-Vine reviews quantity = 
+   | **Quantity of 5-Star Vine Reviews** | **Quantity of 5-Star non-Vine Reviews** |
+   | :---: | :---: |
+   | ![]() <br>cde  | ![]() <br>fgh  | 
  
  
   3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   
- 
+   | **Percentage of 5-Star Vine Reviews** | **Percentage of 5-Star non-Vine Reviews** |
+   | :---: | :---: |
+   | ![]() <br>abc  | ![]() <br>abc  | 
+   | ![]() <br>abc  | ![]() <br>abc  | 
  
  
 .
