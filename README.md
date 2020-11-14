@@ -48,10 +48,10 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 .
 
 ### Deliverable 2: Determine Bias of Vine Review 
-  * Using PySpark and Colab notebook.  Please see: Vine_Review_Analysis.ipynb
+  * Using PySpark and Colab notebook.  Please see files: Vine_Review_Analysis.ipynb  and  Module16_Challenge_Amazon_Reviews.sql.
   * Filters on the data: 
     1) Reviews that were ≥ 20 total_votes recorded, and 
-    2) Reviews where the ratio of helful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
+    2) Reviews where the ratio of helpful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
 
 
 **Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
