@@ -37,7 +37,8 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
 
 ### Deliverable 1: Perform ETL on Amazon Product Reviews
-   DataFrames were transformed from the Amazon Vine Review dataset, and loaded into PostgreSQL. The dataset chosen for this analysis is "us_Grocery". Please see: Amazon_Reviews_ETL.ipynb 
+   * DataFrames were transformed from the Amazon Vine Review dataset, and loaded into PostgreSQL. The dataset chosen for this analysis was "us_Grocery".
+   * Please see files: Amazon_Reviews_ETL.ipynb  and  Module16_Challenge_Amazon_Reviews.sql 
    
    
    **All four PostgreSQL tables, as shown using pgAdmin:**  <br>
@@ -48,7 +49,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 .
 
 ### Deliverable 2: Determine Bias of Vine Review 
-  * Using PySpark and Colab notebook.  Please see files: Vine_Review_Analysis.ipynb  and  Module16_Challenge_Amazon_Reviews.sql.
+  * Using PySpark and Colab notebook.  .  Please see: Vine_Review_Analysis.ipynb  
   * Filters on the data: 
     1) Reviews that were ≥ 20 total_votes recorded, and 
     2) Reviews where the ratio of helpful_votes to total_votes was ≥ 50 percent.  After these filters were made, the following analysis was performed.
