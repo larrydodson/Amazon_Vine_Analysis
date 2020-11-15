@@ -107,7 +107,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
   
   *2. Provide one additional analysis that you could do with the dataset to support your statement.*
 
-   **>**  Additional analysis could be performed using NLP (Natural Language Processing), on the original dataset, and specifically on the data columns for "review_headline" and "review_body". With an analysis of these text columns it could be determined if there is a positive or negative bias in peoples' stated opinions, and would propose to determine if this may be related to the statistical approach of this project. 
+   **>**  Additional analysis could be performed using NLP (Natural Language Processing), on the original dataset, and specifically on the data columns for "review_headline" and "review_body". By building a NLP Pipeline and applying Tokenization, Stop Words Filtering, TF-IDF and with Machine Learning it is proposed that other possible bias could be uncovered with an analysis of these text columns.  It could be determined if there is a positive or negative bias in peoples' stated opinions, and would propose to determine if this may be related to the statistical approach of this project. 
 
 
 
