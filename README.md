@@ -65,7 +65,7 @@ UTMCC DataViz Module 16 Challenge Amazon Vine Analysis
 
 
 
-**Questions:**  Using bulleted lists and images of DataFrames as support, address the following questions:
+**Questions:**  
 
    *1. How many Vine reviews and non-Vine reviews were there?*
   
